@@ -1,12 +1,6 @@
 credits="""
-        _      _              
-  /\/\ (_) ___| | _____ _   _ 
- /    \| |/ __| |/ / _ \ | | |
-/ /\/\ \ | (__|   <  __/ |_| |
-\/    \/_|\___|_|\_\___|\__, |
-                        |___/ 
-ADD ME ON DISCORD  The Young Mickey#0139
-OR JOIN THE DISCORD SERVER https://discord.gg/ZPXrpjUJkC
+ADD ME ON DISCORD  2shiestyyyy#1783
+OR JOIN THE DISCORD SERVER https://discord.gg/BDdXc8NqdY
 IF YOU WANT A BETTER BOT, WE CAN PROVIDE. THIS IS FOR FREE AND NOT MUCH WORK WAS PUT INTO IT
 """
 
